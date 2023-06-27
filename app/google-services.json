@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "768601125171",
+    "project_id": "bluee-57d4f",
+    "storage_bucket": "bluee-57d4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768601125171:android:2ec36c52e4770bb9218e46",
+        "android_client_info": {
+          "package_name": "com.example.bluee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768601125171-f5ojhsp65rkab4it1daoksr2r67m2835.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrtEAwx4mUmV07_UeJ0-Vauu9EDh5riPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768601125171-f5ojhsp65rkab4it1daoksr2r67m2835.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
